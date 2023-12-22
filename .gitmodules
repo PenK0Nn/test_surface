@@ -1,0 +1,3 @@
+[submodule "test_submarine"]
+	path = test_submarine
+	url = https://github.com/PenK0Nn/test_submarine.git
